@@ -1,0 +1,17 @@
+com\workintech\s19d2\config\SecurityConfig.class
+com\workintech\s19d2\repository\AccountRepository.class
+com\workintech\s19d2\controller\WelcomeController.class
+com\workintech\s19d2\controller\AccountController.class
+com\workintech\s19d2\entity\Role.class
+com\workintech\s19d2\repository\MemberRepository.class
+com\workintech\s19d2\repository\RoleRepository.class
+com\workintech\s19d2\service\AccountServiceImpl.class
+com\workintech\s19d2\entity\Account.class
+com\workintech\s19d2\S19d2Application.class
+com\workintech\s19d2\service\AuthenticationService.class
+com\workintech\s19d2\entity\Member.class
+com\workintech\s19d2\service\UserService.class
+com\workintech\s19d2\service\AccountService.class
+com\workintech\s19d2\dto\RegistrationMember.class
+com\workintech\s19d2\dto\RegisterResponse.class
+com\workintech\s19d2\controller\AuthController.class
